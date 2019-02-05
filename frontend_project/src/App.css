@@ -1,0 +1,100 @@
+.header {
+	border-bottom: 1px solid #ddd;
+}
+
+span.align-header {
+	text-align: center;
+}
+/**********************************************************************/
+.RegionalsItems {
+	margin-top: 5%;
+}
+
+#students-senai1 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	border-collapse: collapse;
+	width: 40%;
+	float: left;
+	margin-left: 5%;
+}
+
+#students-senai1 td,
+#students-senai1 th {
+	border: 1px solid #ddd;
+	padding: 8px;
+}
+
+#students-senai1 tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+
+#students-senai1 tr:hover {
+	background-color: #ddd;
+}
+
+#students-senai1 th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: #0062aa;
+	color: white;
+}
+
+/****************************************************/
+#students-senai2 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	border-collapse: collapse;
+	width: 40%;
+	float: right;
+	margin-right: 5%;
+}
+
+#students-senai2 td,
+#students-senai2 th {
+	border: 1px solid #ddd;
+	padding: 8px;
+}
+
+#students-senai2 tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
+
+#students-senai2 tr:hover {
+	background-color: #ddd;
+}
+
+#students-senai2 th {
+	padding-top: 12px;
+	padding-bottom: 12px;
+	text-align: left;
+	background-color: #0062aa;
+	color: white;
+}
+
+/************************************************************************************/
+
+#average-block {
+	clear: left;
+	padding-top: 2%;
+	margin-left: 35%;
+}
+
+#average-national {
+	margin-right: 45%;
+	padding: 2%;
+	background: #f2f2f2;
+	border: 1px solid #ddd;
+	font-weight: bolder;
+	font-size: 25px;
+}
+
+#average-national:hover {
+	background-color: #ddd;
+}
+
+span.border-top {
+	padding: 4%;
+	margin-left: 2%;
+	border-left: 1px solid #ddd;
+	font-weight: 500;
+}
