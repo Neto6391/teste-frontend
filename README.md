@@ -39,11 +39,15 @@ Faça download clicando [aqui](https://github.com/SENAI-NTM/teste-backend/blob/m
 4. Você tem uma semana (7 dias) para a finalização do teste, a partir da data de envio do e-mail.
 5. Se não conseguir finalizar os testes, não se preocupe, envie a sua solução no estágio de desenvolvimento que estiver.
 
+## Tecnologias Utilizadas
+1. NodeJS
+2. Biblioteca React
+
 ## Instruções de Execução do Projeto
 1. Ter instalado o NodeJS [download](https://nodejs.org/).
 2. dar o npm install no diretório do projeto.
 3. Em seguida executar o npm start para executar o projeto.
 
-## Link da Página do Projeto
+## Link da Página do Projeto no GitPages
 [clique aqui](https://neto6391.github.io/teste-frontend/)
 
